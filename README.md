@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Machine Learning Algorithms Comparison
 
 This project evaluates and compares the performance of **Random Forest** and **Support Vector Machine (SVM)** on the **Bank Marketing Dataset**. The experiments were conducted using **Weka** and **RapidMiner**, employing both **cross-validation** and **split-validation** techniques.

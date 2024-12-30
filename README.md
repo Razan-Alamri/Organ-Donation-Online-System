@@ -103,7 +103,7 @@ The **Bank Marketing Dataset** includes data from direct marketing campaigns con
 
 ## Appendix
 
-Detailed results, confusion matrices, and screenshots are included in the [full report](Machine%Learning%Algorithms%20%Comparison20Report.pdf).
+Detailed results, confusion matrices, and screenshots are included in the [full report](Machine%20Learning%20Algorithms%20Comparison%20Report.pdf).
 
 ---
 
